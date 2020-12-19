@@ -1,5 +1,16 @@
 <?php
 
+/**
+ * Atributos para empleado:
+ * 
+ * nombre
+ * direccion
+ * telefono
+ * edad
+ * sexo
+ * puesto  
+ */
+
 class Alumno{
     private $codigo;
     private $nombre;
